@@ -1,4 +1,5 @@
-If you need to install Java and/or Eclipse, unzip / install the items in StuffToInstall.zip
+If you need to install Java and/or Eclipse, unzip / install the items in StuffToInstall.zip which is located at: https://mktech-install.s3.amazonaws.com/StuffToInstall.zip
+
 When installing Eclipse - pick: "Eclipse IDE for Enterprise Java Developers"
 
 
