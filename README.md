@@ -1,4 +1,3 @@
-"# selenium" 
 If you need to install Java and/or Eclipse, unzip / install the items in StuffToInstall.zip
 When installing Eclipse - pick: "Eclipse IDE for Enterprise Java Developers"
 
